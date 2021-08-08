@@ -1,0 +1,9 @@
+{
+	"name": "AntFactory",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7c1edc32-aca2-491a-a223-05050c57724c",
+		"tenantId": "604c1504-c6a3-4080-81aa-b33091104187"
+	}
+}
